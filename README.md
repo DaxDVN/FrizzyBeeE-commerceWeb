@@ -1,8 +1,8 @@
-# FrizzyBeeE-commerceWeb
+# FrizzyBee
 
 FrizzyBee is an e-commerce web application that helps users buy and sell products online.
-##Features
-###User
+## Features
+### User
 
     View product listings
     Search by keyword, label
@@ -15,19 +15,19 @@ FrizzyBee is an e-commerce web application that helps users buy and sell product
     Checkout orders
     View order history
 
-###Seller
+### Seller
 
     CRUD products for sale
     View products they are selling
     Manage orders (Confirm orders, confirm delivery, ...)
 
-###Admin
+### Admin
 
     Manage all products
     Manage labels, brands
     Manage users (Edit, delete, assign roles, ...)
 
-##Installation and Usage
+## Installation and Usage
 
 You can install FrizzyBee by following these steps:
 
@@ -36,7 +36,7 @@ You can install FrizzyBee by following these steps:
     Configure the SQL Server database by importing the script file frizzybee.sql.
     Run the application on your web browser: http://localhost:8080.
 
-##Technologies Used
+## Technologies Used
 
 FrizzyBee is developed using the following technologies:
 
