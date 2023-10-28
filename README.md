@@ -28,14 +28,20 @@ FrizzyBee is an e-commerce web application that helps users buy and sell product
 
 ## Installation and Usage
 
-You can install FrizzyBee by following these steps:
+### You can install FrizzyBee by following these steps:
 
     1. Clone the product from Github: git clone https://github.com/DaxDVN/FrizzyBeeE-commerceWeb.git
     2. Open the project using IntelliJ IDEA 2023.2.1 and Apache Tomcat 10.1.13
-    3. Add plugin Smart Tomcat
-    3. Configure the SQL Server database by importing the script file frizzybee.sql.
-    4. Run the application on your web browser: http://localhost:8080.
+    3. Add plugin Smart Tomcat and configure like below
+    4. Configure the SQL Server database by importing the script file frizzybee.sql.
+    5. Run the application on your web browser: http://localhost:8080.
 
+### Configuration
+![plot](./src/main/webapp/uploads/configuration-step1.png)
+![plot](./src/main/webapp/uploads/configuration-step2.png)
+![plot](./src/main/webapp/uploads/configuration-step3.png)
+![plot](./src/main/webapp/uploads/configuration-step4.png)
+![plot](./src/main/webapp/uploads/configuration-step5.png)
 ## Technologies Used
 
 FrizzyBee is developed using the following technologies:
